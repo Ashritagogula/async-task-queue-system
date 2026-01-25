@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+mysql-connector-python
+pika
+python-dotenv
+pydantic
+pytest
+httpx
+pytest
+pytest-asyncio
+httpx
+
